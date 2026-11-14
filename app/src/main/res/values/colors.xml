@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="xdi_black">#FF000000</color>
+    <color name="xdi_bg">#FF0B0B12</color>
+    <color name="xdi_text">#FFF2F2F7</color>
+    <color name="xdi_text_secondary">#FF9A9AA5</color>
+    <color name="xdi_cyan">#FF4BD8FF</color>
+    <color name="xdi_blue">#FF4B6CFF</color>
+    <color name="xdi_purple">#FF8A5CFF</color>
+</resources>

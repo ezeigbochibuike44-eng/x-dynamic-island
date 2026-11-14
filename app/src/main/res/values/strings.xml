@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X Dynamic Island</string>
+    <string name="splash_tagline">Liquid Glass for your Infinix S4</string>
+    <string name="main_title">Stage 1 complete</string>
+    <string name="main_subtitle">The project foundation is ready. The island overlay and calibration arrive in Stage 2.</string>
+    <string name="info_heading">This phone, as Android reports it</string>
+    <string name="info_template">Device: %1$s\nAndroid API level: %2$d\nScreen: %3$d × %4$d px\nDensity: %5$d dpi (%6$.2f×)\nScreen in dp: %7$.0f × %8$.0f\nStatus bar: %9$d px (%10$.1f dp)\nDisplay cutout: %11$s\nSaved island size: %12$d × %13$d dp</string>
+    <string name="cutout_none">not reported by this device</string>
+</resources>
